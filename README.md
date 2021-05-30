@@ -4,6 +4,8 @@
 I'm a Software Engineer and currently working as a Laboratory Instructor. I have an interest in Data & Machine Learning 
 and have taken several online courses on the Data Science field.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/nashatia/github-readme-stats)
+
 <!---👋 Hi, I’m @nashatia
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
