@@ -5,8 +5,7 @@
 <div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nashatia&hide_border=true&layout=compact" align="right" /></div>  
 <img src="https://github-readme-stats.vercel.app/api?username=nashatia&show_icons=true&count_private=true&hide_border=true" align="left" />
 
-<br/><br/><br/><br/><br/><br/><br/>    
-
+<br/><br/><br/>
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/nashatia" target="_blank">
