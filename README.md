@@ -2,9 +2,9 @@
 # Hi, I'm Nasha<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <div align="left">I'm a Software Engineer and currently working as a Laboratory Instructor. 
   I have an interest in Data & Machine Learning and have taken several online courses on the Data Science field.</div>
-
-<img src="https://github-readme-stats.vercel.app/api?username=nashatia&show_icons=true&count_private=true&hide_border=true" align="left" />
 <div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nashatia&hide_border=true&layout=compact" align="right" /></div>  
+<img src="https://github-readme-stats.vercel.app/api?username=nashatia&show_icons=true&count_private=true&hide_border=true" align="left" />
+
 <br/><br/><br/><br/><br/><br/><br/>    
 
 ## Connect with me  
