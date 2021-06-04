@@ -1,5 +1,11 @@
 
-# Hi, I'm Nasha<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<head>
+  <meta name="google-site-verification" content="hHe0sXR3NqX2DKeKJotuTwzqOBUKzskPNHTWNjnduaM" />
+</head>
+
+<body>
+
+  # Hi, I'm Nasha<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <div>
   <p text-align="left">I'm a Software Engineer and currently working as a Laboratory Instructor. I have an interest in Data & Machine Learning and have taken several online courses on the Data Science field.</p>
 
@@ -22,9 +28,8 @@
 </a>  
 </div>  
   
+</body>  
 
-<br/>  
-<meta name="google-site-verification" content="hHe0sXR3NqX2DKeKJotuTwzqOBUKzskPNHTWNjnduaM" />
 
 <!---👋 Hi, I’m @nashatia
 - 👀 I’m interested in ...
