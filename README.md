@@ -8,9 +8,14 @@
   # Hi, I'm Nasha<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <div>
      <p text-align="left">I'm a Software Engineer and currently working as a Laboratory Instructor. I have an interest in Data & Machine Learning and have taken several online courses on the Data Science. Beside that, i also learn about web and android development. </p>
-   
-  <img src="https://github-readme-stats.vercel.app/api?username=nashatia&show_icons=true&count_private=true&hide_border=true&theme=algolia" align="left" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nashatia&hide_border=true&layout=compact" align="right" />
+  <table>
+    <tr>
+      <img src="https://github-readme-stats.vercel.app/api?username=nashatia&show_icons=true&count_private=true&hide_border=true&theme=algolia" align="left" />
+    </tr>
+    <tr>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nashatia&hide_border=true&layout=compact" align="right" />
+    </tr>
+  </table>
 
 </div>
 <br/><br/><br/><br/><br/><br/><br/><br/>
