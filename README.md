@@ -7,7 +7,7 @@
 
   # Hi, I'm Nasha<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <div>
-     <p text-align="left">I'm a Software Engineer and currently working as a freelancer Web developer. I have an interest in Data & Machine Learning and have taken several online courses on the Data Science.</p>
+     <p text-align="left">I'm a Data Engineer at Retail Company. Used to work as Software Engineer. I have an interest in Data & Machine Learning and have taken several online courses on the Data Science.</p>
   <table>
     <tr>
       <img src="https://github-readme-stats.vercel.app/api?username=nashatia&show_icons=true&count_private=true&hide_border=true&theme=algolia" align="left" />
